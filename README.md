@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyfthony
+- 👋 Hi/Привет, I’m @lyfthony
 - 📫 Reach me on slack @akrivonos or email at akrivonos@lyft.com.
 
 <!---
