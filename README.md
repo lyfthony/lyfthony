@@ -1,5 +1,5 @@
 - 👋 Hi/Привет, I’m @lyfthony.
-- 📫 Reach me on slack @akrivonos.
+- 📫 Reach me on slack @anthony.
 
 <!---
 lyfthony/lyfthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
